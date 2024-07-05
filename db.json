@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "d41e",
+      "email": "am@gmail.com",
+      "name": "am",
+      "surname": "amov",
+      "password": "20081013Al!"
+    },
+    {
+      "id": "68ac",
+      "email": "sobak@gmail.com",
+      "name": "awdadawd",
+      "surname": "bakirrov",
+      "password": "20081013Al!"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "45a5",
+      "name": "barak",
+      "currency": "UZS",
+      "balance": 1
+    }
+  ],
+  "tanzaktions": [
+    {
+      "id": "f4e5",
+      "wallet": "alsldldldl",
+      "amount": 11,
+      "category": "home",
+      "date": "2024-07-04T22:36:49.013Z"
+    }
+  ]
+}
